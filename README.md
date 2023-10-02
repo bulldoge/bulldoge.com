@@ -12,9 +12,11 @@ bulldoge is strong like a bull;
 
 bulldoge拥有像公牛一样强壮的身体;
 
-bulldoge has doge head and human body.
+bulldoge has doge head and human body which is a virtual being.
 
 bulldoge是由doge头和人类身体组合而成的一个虚拟形象.
+
+as following:
 
 如下图所示:
 
