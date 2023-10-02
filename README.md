@@ -1,7 +1,9 @@
 # bulldoge.com
 
-bulldoge is a doge;
+bulldoge is doge  like;
 
 bulldoge is human like; 
 
-bulldoge is strong like a bull.
+bulldoge is strong like a bull;
+
+bulldoge has doge head and human body.
